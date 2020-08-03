@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","oc",{clear:"Escafar",highlight:"Puntada",options:"Opcions de color",selected:"Colors seleccionada",title:"Seleccionar una color"});

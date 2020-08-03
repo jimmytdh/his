@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","sr",{clear:"Clear",highlight:"Highlight",options:"Colors Options",selected:"Selected Colors",title:"Select color"});

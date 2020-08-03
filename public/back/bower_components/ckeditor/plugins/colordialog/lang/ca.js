@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","ca",{clear:"Neteja",highlight:"Destacat",options:"Opcions del color",selected:"Colors Seleccionat",title:"Seleccioni el color"});
